@@ -2,7 +2,7 @@
 
 A complete N64 boxart pack for the [SummerCart64](https://summercart64.dev/) flashcart, covering US, JP, and EU titles. Structured to work out of the box with the [N64 Flashcart Menu](https://menu.summercart64.dev/).
 
-Maintained by [Glazed Watermelon](https://www.youtube.com/@glazed_watermelon) — gaming tech reviews and retro gaming tools.
+Maintained by [Glazed Watermelon](https://www.youtube.com/@glazed_watermelon) — gaming tech reviews
 
 ---
 
